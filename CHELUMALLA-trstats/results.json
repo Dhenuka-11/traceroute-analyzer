@@ -1,0 +1,301 @@
+[
+    {
+        "hop": 1,
+        "hosts": [
+            "OPNsense.internal",
+            "(192.168.1.1)"
+        ],
+        "latency": [
+            0.175,
+            0.146,
+            0.129
+        ],
+        "avg": 0.15,
+        "max": 0.175,
+        "median": 0.146,
+        "min": 0.129
+    },
+    {
+        "hop": 2,
+        "hosts": [
+            "172.17.149.1",
+            "(172.17.149.1)"
+        ],
+        "latency": [
+            0.964,
+            1.325,
+            1.793
+        ],
+        "avg": 1.361,
+        "max": 1.793,
+        "median": 1.325,
+        "min": 0.964
+    },
+    {
+        "hop": 3,
+        "hosts": [
+            "172.19.52.65",
+            "(172.19.52.65)"
+        ],
+        "latency": [
+            0.36,
+            0.336,
+            0.313
+        ],
+        "avg": 0.336,
+        "max": 0.36,
+        "median": 0.336,
+        "min": 0.313
+    },
+    {
+        "hop": 4,
+        "hosts": [
+            "172.31.43.106",
+            "(172.31.43.106)",
+            "172.31.42.106",
+            "(172.31.42.106)",
+            "172.31.43.106",
+            "(172.31.43.106)"
+        ],
+        "latency": [
+            0.86,
+            0.88,
+            1.221
+        ],
+        "avg": 0.987,
+        "max": 1.221,
+        "median": 0.88,
+        "min": 0.86
+    },
+    {
+        "hop": 5,
+        "hosts": [
+            "172.31.40.0",
+            "(172.31.40.0)",
+            "172.31.41.0",
+            "(172.31.41.0)",
+            "172.31.40.0",
+            "(172.31.40.0)"
+        ],
+        "latency": [
+            0.99,
+            0.814,
+            1.289
+        ],
+        "avg": 1.031,
+        "max": 1.289,
+        "median": 0.99,
+        "min": 0.814
+    },
+    {
+        "hop": 6,
+        "hosts": [
+            "172.31.40.26",
+            "(172.31.40.26)"
+        ],
+        "latency": [
+            0.312,
+            0.34,
+            0.308
+        ],
+        "avg": 0.32,
+        "max": 0.34,
+        "median": 0.312,
+        "min": 0.308
+    },
+    {
+        "hop": 7,
+        "hosts": [
+            "172.31.47.33",
+            "(172.31.47.33)",
+            "172.31.47.17",
+            "(172.31.47.17)"
+        ],
+        "latency": [
+            0.971,
+            1.097,
+            1.065
+        ],
+        "avg": 1.044,
+        "max": 1.097,
+        "median": 1.065,
+        "min": 0.971
+    },
+    {
+        "hop": 8,
+        "hosts": [
+            "172.31.47.29",
+            "(172.31.47.29)",
+            "172.31.47.13",
+            "(172.31.47.13)",
+            "172.31.47.29",
+            "(172.31.47.29)"
+        ],
+        "latency": [
+            1.223,
+            1.199,
+            1.323
+        ],
+        "avg": 1.248,
+        "max": 1.323,
+        "median": 1.223,
+        "min": 1.199
+    },
+    {
+        "hop": 9,
+        "hosts": [
+            "128.192.166.44",
+            "(128.192.166.44)",
+            "trcpsx.net.uga.edu",
+            "(128.192.166.41)"
+        ],
+        "latency": [
+            4.704,
+            6.535,
+            6.514
+        ],
+        "avg": 5.918,
+        "max": 6.535,
+        "median": 6.514,
+        "min": 4.704
+    },
+    {
+        "hop": 10,
+        "hosts": [],
+        "latency": [],
+        "avg": "Hop is unresponsive",
+        "max": "Hop is unresponsive",
+        "median": "Hop is unresponsive",
+        "min": "Hop is unresponsive"
+    },
+    {
+        "hop": 11,
+        "hosts": [],
+        "latency": [],
+        "avg": "Hop is unresponsive",
+        "max": "Hop is unresponsive",
+        "median": "Hop is unresponsive",
+        "min": "Hop is unresponsive"
+    },
+    {
+        "hop": 12,
+        "hosts": [
+            "72.14.234.246",
+            "(72.14.234.246)",
+            "142.251.241.184",
+            "(142.251.241.184)"
+        ],
+        "latency": [
+            4.454,
+            4.42,
+            4.391
+        ],
+        "avg": 4.422,
+        "max": 4.454,
+        "median": 4.42,
+        "min": 4.391
+    },
+    {
+        "hop": 13,
+        "hosts": [
+            "74.125.243.42",
+            "(74.125.243.42)",
+            "74.125.243.140",
+            "(74.125.243.140)"
+        ],
+        "latency": [
+            4.515,
+            4.149,
+            4.129
+        ],
+        "avg": 4.264,
+        "max": 4.515,
+        "median": 4.149,
+        "min": 4.129
+    },
+    {
+        "hop": 14,
+        "hosts": [],
+        "latency": [],
+        "avg": "Hop is unresponsive",
+        "max": "Hop is unresponsive",
+        "median": "Hop is unresponsive",
+        "min": "Hop is unresponsive"
+    },
+    {
+        "hop": 15,
+        "hosts": [
+            "142.251.51.8",
+            "(142.251.51.8)",
+            "172.253.72.117",
+            "(172.253.72.117)",
+            "142.251.51.104",
+            "(142.251.51.104)"
+        ],
+        "latency": [
+            4.146,
+            5.353,
+            4.279
+        ],
+        "avg": 4.593,
+        "max": 5.353,
+        "median": 4.279,
+        "min": 4.146
+    },
+    {
+        "hop": 16,
+        "hosts": [
+            "209.85.241.255",
+            "(209.85.241.255)",
+            "209.85.241.55",
+            "(209.85.241.55)",
+            "209.85.244.193",
+            "(209.85.244.193)"
+        ],
+        "latency": [
+            5.433,
+            5.02,
+            4.998
+        ],
+        "avg": 5.15,
+        "max": 5.433,
+        "median": 5.02,
+        "min": 4.998
+    },
+    {
+        "hop": 17,
+        "hosts": [],
+        "latency": [],
+        "avg": "Hop is unresponsive",
+        "max": "Hop is unresponsive",
+        "median": "Hop is unresponsive",
+        "min": "Hop is unresponsive"
+    },
+    {
+        "hop": 18,
+        "hosts": [],
+        "latency": [],
+        "avg": "Hop is unresponsive",
+        "max": "Hop is unresponsive",
+        "median": "Hop is unresponsive",
+        "min": "Hop is unresponsive"
+    },
+    {
+        "hop": 19,
+        "hosts": [],
+        "latency": [],
+        "avg": "Hop is unresponsive",
+        "max": "Hop is unresponsive",
+        "median": "Hop is unresponsive",
+        "min": "Hop is unresponsive"
+    },
+    {
+        "hop": 20,
+        "hosts": [],
+        "latency": [],
+        "avg": "Hop is unresponsive",
+        "max": "Hop is unresponsive",
+        "median": "Hop is unresponsive",
+        "min": "Hop is unresponsive"
+    }
+]
