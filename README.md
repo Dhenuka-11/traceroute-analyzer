@@ -44,8 +44,3 @@ results.json: Contains structured per-hop latency data and statistics
 
 latency_plot.pdf: Boxplot visualization of latency per hop
 
-Notes
-
-Unresponsive hops are labeled accordingly in the JSON and plot
-
-Only the code and metrics are tracked; large files like PDFs are ignored in Git
